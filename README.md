@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pashonokk
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java and English
 - 📫 How to reach me https://t.me/pashonoks - telegram www.linkedin.com/in/pavlofentisov - LinkedIn
 
 
